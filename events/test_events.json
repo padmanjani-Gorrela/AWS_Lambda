@@ -1,0 +1,8 @@
+{
+  "resource": "/file/{filename}",
+  "path": "/file/index",
+  "httpMethod": "GET",
+  "pathParameters": {
+    "filename": "index"
+  }
+}
